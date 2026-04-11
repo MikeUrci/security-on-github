@@ -1,0 +1,13 @@
+date,target,acquirer,deal_value_usd_m,target_revenue,target_ebitda,ev_revenue_multiple,ev_ebitda_multiple,premium_pct,payment_type,sector
+2024-03-15,Falcon Data Inc,Argus Software Group,2800,340,68,8.2,41.2,32,Cash,SaaS - Data & Analytics
+2023-11-08,Coral Analytics,Meridian Holdings,1450,195,33,7.4,43.9,28,Cash + Stock,SaaS - Data & Analytics
+2024-07-22,Sable Metrics,GlobalTech Partners,4200,480,115,8.75,36.5,38,Cash,SaaS - Data & Analytics
+2023-06-12,Iris Intelligence,NorthBay Capital,890,110,16,8.1,55.6,25,Cash,SaaS - Data & Analytics
+2024-01-30,Tempest BI,Horizon Software,3100,395,89,7.85,34.8,35,Stock,SaaS - Data & Analytics
+2023-09-18,Lattice Insights,Crestview Equity,1150,155,22,7.4,52.3,22,Cash,SaaS - Data & Analytics
+2024-05-03,Graphite Data,Atlas Enterprise,5600,620,168,9.0,33.3,42,Cash,SaaS - Data & Analytics
+2022-12-14,Plume Analytics,Argus Software Group,680,92,11,7.4,61.8,20,Cash,SaaS - Data & Analytics
+2024-02-19,Wren Signals,Tidewater Partners,2250,285,52,7.9,43.3,30,Cash + Stock,SaaS - Data & Analytics
+2023-04-05,Obsidian BI,Meridian Holdings,1820,240,41,7.6,44.4,26,Cash,SaaS - Data & Analytics
+2024-09-11,Harbor Data,Blackwood Capital,3450,410,97,8.4,35.6,36,Cash,SaaS - Data & Analytics
+2023-02-28,Cedar Metrics,GlobalTech Partners,980,128,19,7.7,51.6,24,Stock,SaaS - Data & Analytics

@@ -1,0 +1,60 @@
+{
+  "company": "NorthStar Analytics",
+  "description": "B2B SaaS provider of real-time data analytics and business intelligence tools for mid-market enterprises",
+  "fiscal_year_end": "December 31",
+  "currency": "USD",
+  "units": "millions",
+  "historicals": {
+    "2022": {
+      "revenue": 312.5,
+      "gross_profit": 234.4,
+      "ebitda": 28.1,
+      "capex": 15.6,
+      "change_in_working_capital": 6.3
+    },
+    "2023": {
+      "revenue": 398.2,
+      "gross_profit": 306.6,
+      "ebitda": 51.8,
+      "capex": 18.3,
+      "change_in_working_capital": 8.1
+    },
+    "2024": {
+      "revenue": 512.8,
+      "gross_profit": 405.1,
+      "ebitda": 87.2,
+      "capex": 22.1,
+      "change_in_working_capital": 10.5
+    }
+  },
+  "projections": {
+    "2025": {
+      "revenue": 651.3,
+      "gross_profit": 520.0,
+      "ebitda": 130.3,
+      "capex": 26.0,
+      "change_in_working_capital": 12.8
+    },
+    "2026": {
+      "revenue": 807.6,
+      "gross_profit": 654.2,
+      "ebitda": 185.7,
+      "capex": 30.3,
+      "change_in_working_capital": 15.0
+    },
+    "2027": {
+      "revenue": 969.1,
+      "gross_profit": 794.7,
+      "ebitda": 252.0,
+      "capex": 33.9,
+      "change_in_working_capital": 17.5
+    }
+  },
+  "ownership": "Founder-led, 58% insider ownership",
+  "headquarters": "Boston, MA",
+  "employees": 1420,
+  "customers": 3850,
+  "net_retention_rate": 1.18,
+  "gross_margin_trajectory": "75% -> 77% -> 79%",
+  "rule_of_40_2024": 45.8
+}

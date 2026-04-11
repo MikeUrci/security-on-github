@@ -1,0 +1,16 @@
+ticker,name,market_cap_usd_m,ev_usd_m,revenue_ltm,ebitda_ltm,revenue_growth_yoy,ebitda_margin,ev_revenue,ev_ebitda,pe_ratio,sector
+NMBS,Nimbus Data Corp,7500,7820,850,187.0,0.28,0.22,9.2,41.8,45,SaaS - Data & Analytics
+PLRS,Polaris Analytics,8900,9300,1240,347.2,0.18,0.28,7.5,26.8,38,SaaS - Data & Analytics
+HLIX,Helix Insights,4450,4704,420,50.4,0.35,0.12,11.2,93.3,95,SaaS - Data & Analytics
+VNTA,Vanta Signals,5200,5508,680,129.2,0.24,0.19,8.1,42.6,52,SaaS - Data & Analytics
+KAIR,Kairos Metrics,3950,4154,310,24.8,0.42,0.08,13.4,167.5,nm,SaaS - Data & Analytics
+LMDS,Lumen Data Systems,10100,10416,1680,520.8,0.14,0.31,6.2,20.0,32,SaaS - Data & Analytics
+QNTI,Quanta Intelligence,5050,5292,540,91.8,0.26,0.17,9.8,57.6,58,SaaS - Data & Analytics
+MRDB,Meridian BI,6900,7176,920,220.8,0.20,0.24,7.8,32.5,42,SaaS - Data & Analytics
+STLR,Stellar Analytics,3200,3335,230,11.5,0.45,0.05,14.5,290.0,nm,SaaS - Data & Analytics
+APXD,Apex Data Group,9500,9860,1450,420.5,0.16,0.29,6.8,23.4,35,SaaS - Data & Analytics
+CBAN,Cobalt Analytics,3800,3990,380,53.2,0.32,0.14,10.5,75.0,72,SaaS - Data & Analytics
+ZNTH,Zenith Data,8900,9240,1100,286.0,0.22,0.26,8.4,32.3,40,SaaS - Data & Analytics
+ORNI,Orion Insights,4700,4949,490,73.5,0.30,0.15,10.1,67.3,68,SaaS - Data & Analytics
+PNCL,Pinnacle Metrics,6400,6708,780,179.4,0.21,0.23,8.6,37.4,44,SaaS - Data & Analytics
+SMDL,Summit Data Labs,5500,5734,610,109.8,0.27,0.18,9.4,52.2,50,SaaS - Data & Analytics

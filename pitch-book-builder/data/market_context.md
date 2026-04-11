@@ -1,0 +1,11 @@
+# Market Environment — Q4 2024 Snapshot
+
+Global M&A activity in the data and analytics software sector has remained resilient through 2024 despite elevated borrowing costs, with strategic acquirers driving a disproportionate share of transaction volume. Deal multiples, while compressed from the 2021 peak, have stabilized in the 7.0x–9.0x LTM revenue range for high-quality, vertical-focused SaaS targets exhibiting durable net retention above 115 percent.
+
+Interest rates remain the dominant variable in sponsor-led processes. With the secured overnight financing rate averaging approximately 4.6 percent over the last twelve months, financial buyers have narrowed their focus to assets generating meaningful free cash flow, penalizing earlier-stage targets still burning capital to scale. This has created a two-tier market: profitable compounders are attracting competitive auctions, while pre-profitability assets are either delaying processes or accepting structured consideration.
+
+Strategic consolidators — particularly large-cap enterprise software platforms and private-equity-backed roll-ups — are actively pursuing tuck-in acquisitions that deliver immediate cost synergies and cross-sell into installed bases exceeding 50,000 customers. Recent transactions in the data analytics subsector have printed at a median EV/revenue of approximately 7.8x and EV/EBITDA of approximately 42x, with control premiums typically in the 25–40 percent range over unaffected share prices.
+
+The regulatory backdrop remains constructive for sub-$10 billion transactions, though antitrust scrutiny has lengthened review timelines for deals involving customer data or AI training assets. Cross-border activity has moderated meaningfully, with inbound US deals from European and Asia-Pacific acquirers down approximately 18 percent year over year.
+
+Looking forward, bankers expect a measured uptick in activity as sponsor dry powder, currently estimated above $2 trillion globally, continues to seek deployment against a narrowing pipeline of high-quality SaaS targets. The sell-side window for founder-owned assets exhibiting 25 percent-plus growth and expanding margins is widely considered attractive through mid-2025.
